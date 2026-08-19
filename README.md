@@ -14,4 +14,4 @@ I help teams in high-stakes environments trust their test coverage: which busine
 
 ## Elsewhere
 
-Website: [certance.eu](https://www.certance.eu) · Writing: [Medium](https://medium.com/@ivan-stepantsov) · LinkedIn: [in/istepantsov](https://www.linkedin.com/in/istepantsov)
+Website: [certance.eu](https://www.certance.eu) · Writing: [Medium](https://medium.com/@ivan-stepantsov) · LinkedIn: [in/ivan-stepantsov](https://www.linkedin.com/in/ivan-stepantsov)
